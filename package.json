@@ -1,0 +1,19 @@
+{
+  "name": "discord_laifu_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@psibean/discord.js-pagination": "^4.0.5",
+    "discord.js": "^13.8.0",
+    "discord.js-pagination": "^1.0.3",
+    "discordjs-button-pagination": "^1.0.7",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.4.0"
+  }
+}
