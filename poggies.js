@@ -19,6 +19,7 @@ const laifu_bot = `688202466315206661`;
 ///////////////// DISCORD CONNECT /////////////////
 client.on("ready", async () => {
   console.log(`Logged in as ${client.user.tag}!`);
+  client.user.setStatus("invisible");
 });
 
 ///////////////// GACHA /////////////////
